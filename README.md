@@ -1,2 +1,2 @@
 # tictactoe
-React tictactow game
+React tictactoe game
